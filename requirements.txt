@@ -1,0 +1,21 @@
+# requirements for Nia
+# Add Python package dependencies here, one per line
+# Example:
+# flask==2.2.5
+
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+python-dotenv
+apscheduler
+twilio
+elevenlabs
+speechrecognition
+pyaudio
+gtts
+sentence-transformers
+torch
+torchvision
+torchaudio
+numpy
